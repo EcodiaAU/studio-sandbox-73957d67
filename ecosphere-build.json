@@ -1,0 +1,36 @@
+{
+  "generator": "ecosphere-next",
+  "siteId": "73957d67-0d18-472a-9bd0-4dc8fc8475b6",
+  "siteName": "Studio Sandbox (test harness)",
+  "builtAt": "2026-07-28T08:30:22.463Z",
+  "sections": 4,
+  "pages": [
+    {
+      "slug": "",
+      "title": "Home",
+      "route": "/",
+      "file": "app/page.tsx",
+      "sections": 4
+    }
+  ],
+  "nav": [],
+  "files": [
+    ".gitignore",
+    "app/_generated/section-0.tsx",
+    "app/_generated/section-1.tsx",
+    "app/_generated/section-2.tsx",
+    "app/_generated/section-3.tsx",
+    "app/globals.css",
+    "app/layout.tsx",
+    "app/page.tsx",
+    "ecosphere-build.json",
+    "next.config.mjs",
+    "package.json",
+    "postcss.config.mjs",
+    "tailwind.config.ts",
+    "tsconfig.json",
+    "vercel.json"
+  ],
+  "overlay": "https://ecosphere.ecodia.au/preview-editor.js",
+  "fingerprint": "b975cb6b9031ec05f9b91c6647c718d8e88c3f2a287acf7e485c76eb7fb357d0"
+}

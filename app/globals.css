@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --site-ground: #161616;
+  --site-ground-deep: #000000;
+  --site-cream: #f2f2f0;
+  --site-surface: #ffffff;
+  --site-ink: #161616;
+  --site-muted: #6f6f6f;
+  --site-line: #e6e6e4;
+  --site-radius: 0.875rem;
+  --site-heading-font: "Spectral", "Iowan Old Style", Garamond, "Times New Roman", serif;
+  --site-text-base: 100%;
+  --site-bg: #ffffff;
+  --site-fg: #161616;
+}
+
+html {
+  font-size: var(--site-text-base, 100%);
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--site-bg);
+  color: var(--site-fg);
+  font-family: var(--site-heading-font);
+}
