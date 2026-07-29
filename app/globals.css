@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 :root {
-  --site-ground: #161616;
+  --site-ground: #7b2ff7;
   --site-ground-deep: #000000;
   --site-cream: #f2f2f0;
   --site-surface: #ffffff;
